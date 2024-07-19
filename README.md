@@ -26,6 +26,7 @@ Tutorial
 
 - **If the program doesn't work**:
   - Download and install the Visual C++ Redistributable or Visual Studio Code 2022.
-  - Remember, this program does not support Windows 11.
+  - If esp offcentered make your screen scale 100% by going into windows settings display and screenscale
 
 Enjoy your enhanced gaming experience with Thunder Aim! 😃
+
