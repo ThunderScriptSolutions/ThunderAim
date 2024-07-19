@@ -1,5 +1,7 @@
 Tutorial
 
+**WINDOWS 10 ONLY**
+
 1. **Ensure Real-Time Protection is Off**
    - Disable real-time protection in your windows antivirus settings.
 
