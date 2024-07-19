@@ -29,5 +29,7 @@ Please note theres a 50/50 chance it will work on windows 11
 8. **Enjoy the Features**  
    Enjoy your enhanced gaming experience with Thunder Aim! 😃
 
+  - If esp offcentered make your screen scale 100% by going into windows settings display and screenscale
+
 
 **It would help if you were on this windows version 23H2 you can check by going into your windows search bar and typing "Run" then type in "winver" then click enter**
